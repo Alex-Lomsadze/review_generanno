@@ -1,2 +1,2 @@
-# generanno_experiments
+# Review GENERanno
 Paper review: GENERanno
